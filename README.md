@@ -1,4 +1,4 @@
-# Mercado de Aberturas de Empresas — Case Analítico 2026
+# Mercado de Aberturas de Empresas = Case Analítico 2026
 
 Análise do mercado brasileiro de abertura de empresas com projeção de demanda para 2026, identificação de sazonalidade, concentração regional e estratégia de aquisição de clientes.
 
@@ -14,6 +14,7 @@ O objetivo deste projeto foi estruturar uma base analítica para orientar as dec
 2. Onde e em quais segmentos a demanda se concentra?
 3. Como estruturar a estratégia de aquisição com base nesses dados?
 
+ obs: O arquvo PDF com os principais insights e graficos estão no PDF disponivel neste repositório
 ---
 
 ## Estrutura do Projeto
